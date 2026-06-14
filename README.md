@@ -28,11 +28,6 @@ Given a sequence of words, predict the next most probable word based on language
 - Calculated word probabilities using frequency-based statistics
 - Prediction based on highest probability next token
 
----
-
-## 🧪 Evaluation
-- Metric: Accuracy / Top-k accuracy (if applicable)
-- Validation method: Train/test split from dataset
 
 ---
 
