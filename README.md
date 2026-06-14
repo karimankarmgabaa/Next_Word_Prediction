@@ -46,4 +46,4 @@ Given a sequence of words, predict the next most probable word based on language
 
 ## 🚀 How to Run
 ```bash
-python next_word_prediction.py
+python code.py
